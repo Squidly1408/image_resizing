@@ -1,5 +1,4 @@
 from PIL import Image
-import os
 
 def resize_image(input_path, output_path, new_width, new_height):
     # Open an image file
